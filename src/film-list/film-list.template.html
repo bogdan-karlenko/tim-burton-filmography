@@ -3,14 +3,19 @@
     <div class="col-md-2">
       <!--Sidebar content-->
       Search: <input ng-model="$ctrl.query" />
-      <div class="col-md-10">
-        <ul class="films">
-          <li ng-repeat="film in $ctrl.films">
-            <span>{{film.name}}</span>
-            <p>{{film.year}}</p>
-          </li>
-        </ul>
-      </div>
+    </div>
+    <div class="col-md-10">
+      <ul class="films">
+        <li ng-repeat="film in $ctrl.films | filter:$ctrl.query" class="thumbnail">
+          <span><h2>{{film.name}}</h2></span>
+          <p><h3>Year: {{film.year}}</h3></p>
+          <a href="#/films/{{film.id}}" class="thumb">
+            <img ng-src="/src/img/{{film.imageUrl}}" width="300px" alt="{{film.name}}"  />
+          </a>
+          <a href="#/films/{{film.id}}">{{film.name}}</a>
+        </li>
+      </ul>
     </div>
   </div>
+</div>
 </div>

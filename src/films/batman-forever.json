@@ -1,0 +1,30 @@
+{
+  "id": "batman-forever",
+  "name": "Batman Forever",
+  "release": "June 9, 1995",
+  "directed": "Joel Schumacher",
+  "produced": [
+    "Tim Burton",
+    "Peter MacGregor-Scott",
+  ],
+  "starring": [
+    "Val Kilmer",
+    "Tommy Lee Jones",
+    "Jim Carrey",
+    "Nicole Kidman",
+    "Chris O'Donnell",
+    "Michael Gough",
+    "Pat Hingle",
+],
+  "duration": "122 minutes",
+  "budget": "$100 million",
+  "boxoffice": "$336.5 million",
+  "paidoff": true,
+  "images": [
+    "img/batman-forever.0.jpg",
+    "img/batman-forever.1.jpg",
+    "img/batman-forever.2.jpg",
+    "img/batman-forever.3.jpg",
+    "img/batman-forever.4.jpg",
+  ],
+}

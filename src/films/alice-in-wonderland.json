@@ -1,0 +1,31 @@
+{
+  "id": "alice-in-wonderland",
+  "name": "Alice in Wonderland",
+  "release": "February 25, 2010",
+  "directed": "Tim Burton",
+  "produced": [
+    "Richard D. Zanuck",
+    "Joe Roth",
+    "Suzanne Todd",
+    "Jennifer Todd",
+  ],
+  "starring": [
+    "Johnny Depp",
+    "Anne Hathaway",
+    "Helena Bonham Carter",
+    "Crispin Glover",
+    "Matt Lucas",
+    "Mia Wasikowska",
+  ],
+  "duration": "109 minutes",
+  "budget": "$175 million",
+  "boxoffice": "$1.025 billion",
+  "paidoff": true,
+    "images": [
+    "img/alice-in-wonderland.0.jpg",
+    "img/alice-in-wonderland.1.jpg",
+    "img/alice-in-wonderland.2.jpg",
+    "img/alice-in-wonderland.3.jpg",
+    "img/alice-in-wonderland.4.jpg",
+  ],
+}

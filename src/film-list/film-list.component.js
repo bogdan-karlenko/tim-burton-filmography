@@ -1,7 +1,7 @@
 angular.
 module('filmList').
 component('filmList', {
-  templateURL: 'film-list.template.html',
+  templateUrl: '/src/film-list/film-list.template.html',
   controller: function filmListController($http) {
     var self = this;
     self.orderProp = 'year';

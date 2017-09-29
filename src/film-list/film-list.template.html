@@ -1,9 +1,16 @@
-<div class="col-md-10">
-  <ul class="films">
-    <li></li>
-    <li ng-repeat="film in $ctrl.films">
-      <span>{{film.name}}</span>
-      <p>{{film.release}}</p>
-    </li>
-  </ul>
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-2">
+      <!--Sidebar content-->
+      Search: <input ng-model="$ctrl.query" />
+      <div class="col-md-10">
+        <ul class="films">
+          <li ng-repeat="film in $ctrl.films">
+            <span>{{film.name}}</span>
+            <p>{{film.year}}</p>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
 </div>

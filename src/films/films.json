@@ -6,7 +6,7 @@
     "name": "Pee-wee's Big Adventure",
     "year": "1985"
   }, {
-    "age": 1,
+    "age": 99,
     "id": "beetlejuice",
     "imageUrl": "beetlejuice.0.jpg",
     "name": "Beetlejuice",
@@ -111,7 +111,7 @@
     "age": 18,
     "id": "alice-in-wonderland",
     "imageUrl": "alice-in-wonderland.0.jpg",
-    "name": "   Alice in Wonderland",
+    "name": "Alice in Wonderland",
     "year": "2010"
   }, {
     "age": 19,

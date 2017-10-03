@@ -1,19 +1,30 @@
 {
-  "id": "",
-  "name": "",
-  "release": "",
-  "directed": "",
-  "produced": [],
-  "starring": [],
-  "duration": "",
-  "budget": "",
-  "boxoffice": "",
+  "id": "abraham-lincoln-vampire-hunter",
+  "name": "Abraham Lincoln: Vampire Hunter",
+  "release": "June 18, 2012",
+  "directed": "Timur Bekmambetov",
+  "produced": [
+    "Tim Burton",
+    "Timur Bekmambetov",
+    "Jim Lemley"
+  ],
+  "starring": [
+    "Benjamin Walker",
+    "Dominic Cooper",
+    "Anthony Mackie",
+    "Mary Elizabeth Winstead",
+    "Rufus Sewell",
+    "Marton Csokas"
+],
+  "duration": "105 minutes",
+  "budget": "$99.5 million",
+  "boxoffice": "$116.4 million",
   "paidoff": true,
   "images": [
-    "img/.0.jpg",
-    "img/.1.jpg",
-    "img/.2.jpg",
-    "img/.3.jpg",
-    "img/.4.jpg",
-  ],
+    "img/abraham-lincoln-vampire-hunter.0.jpg",
+    "img/abraham-lincoln-vampire-hunter.1.jpg",
+    "img/abraham-lincoln-vampire-hunter.2.jpg",
+    "img/abraham-lincoln-vampire-hunter.3.jpg",
+    "img/abraham-lincoln-vampire-hunter.4.jpg",
+  ]
 }

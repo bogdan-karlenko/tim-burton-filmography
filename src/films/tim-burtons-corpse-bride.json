@@ -1,6 +1,7 @@
 {
-  "id": "",
+  "id": "tim-burtons-corpse-bride",
   "name": "",
+  "description": "",
   "release": "",
   "directed": "",
   "produced": [],
@@ -10,10 +11,10 @@
   "boxoffice": "",
   "paidoff": true,
   "images": [
-    "img/.0.jpg",
-    "img/.1.jpg",
-    "img/.2.jpg",
-    "img/.3.jpg",
-    "img/.4.jpg",
-  ],
+    "src/img/tim-burtons-corpse-bride.0.jpg",
+    "src/img/tim-burtons-corpse-bride.1.jpg",
+    "src/img/tim-burtons-corpse-bride.2.jpg",
+    "src/img/tim-burtons-corpse-bride.3.jpg",
+    "src/img/tim-burtons-corpse-bride.4.jpg"
+  ]
 }

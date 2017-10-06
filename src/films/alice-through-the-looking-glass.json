@@ -1,19 +1,33 @@
 {
-  "id": "",
-  "name": "",
-  "release": "",
-  "directed": "",
-  "produced": [],
-  "starring": [],
-  "duration": "",
-  "budget": "",
-  "boxoffice": "",
+  "id": "alice-through-the-looking-glass",
+  "name": "Alice Through the Looking Glass",
+  "description": "Alice returns to the whimsical world of Wonderland and travels back in time to help the Mad Hatter.",
+  "release": "May 10, 2016",
+  "directed": "James Bobin",
+  "produced": [
+    "Joe Roth",
+    "Suzanne Todd",
+    "Jennifer Todd",
+    "Tim Burton"
+  ],
+  "starring": [
+    "Johnny Depp",
+    "Anne Hathaway",
+    "Mia Wasikowska",
+    "Matt Lucas",
+    "Rhys Ifans",
+    "Helena Bonham Carter",
+    "Sacha Baron Cohen"
+  ],
+  "duration": "113 minutes",
+  "budget": "$170 million",
+  "boxoffice": "$299.5 million",
   "paidoff": true,
   "images": [
-    "img/.0.jpg",
-    "img/.1.jpg",
-    "img/.2.jpg",
-    "img/.3.jpg",
-    "img/.4.jpg",
-  ],
+    "src/img/alice-through-the-looking-glass.0.jpg",
+    "src/img/alice-through-the-looking-glass.1.jpg",
+    "src/img/alice-through-the-looking-glass.2.jpg",
+    "src/img/alice-through-the-looking-glass.3.jpg",
+    "src/img/alice-through-the-looking-glass.4.jpg"
+  ]
 }

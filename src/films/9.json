@@ -1,13 +1,14 @@
 {
   "id": "9",
   "name": "9",
+  "description": "A rag doll that awakens in a postapocalyptic future holds the key to humanity's salvation.",
   "release": "September 9, 2009",
   "directed": "Shane Acker",
   "produced": [
     "Timur Bekmambetov",
     "Tim Burton",
     "Dana Ginsburg",
-    "Jim Lemley",
+    "Jim Lemley"
   ],
   "starring": [
     "Elijah Wood",
@@ -16,17 +17,17 @@
     "Christopher Plummer",
     "Crispin Glover",
     "Martin Landau",
-    "Fred Tatasciore",
+    "Fred Tatasciore"
   ],
   "duration": "79 minutes",
   "budget": "$30 million",
   "boxoffice": "$48.4 million",
   "paidoff": true,
   "images": [
-    "img/9.0.jpg",
-    "img/9.1.jpg",
-    "img/9.2.jpg",
-    "img/9.3.jpg",
-    "img/9.4.jpg",
-  ],
+    "src/img/9.0.jpg",
+    "src/img/9.1.jpg",
+    "src/img/9.2.jpg",
+    "src/img/9.3.jpg",
+    "src/img/9.4.jpg"
+  ]
 }

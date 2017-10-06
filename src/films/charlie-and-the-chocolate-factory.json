@@ -1,5 +1,5 @@
 {
-  "id": "",
+  "id": "charlie-and-the-chocolate-factory",
   "name": "",
   "release": "",
   "directed": "",
@@ -10,10 +10,10 @@
   "boxoffice": "",
   "paidoff": true,
   "images": [
-    "img/.0.jpg",
-    "img/.1.jpg",
-    "img/.2.jpg",
-    "img/.3.jpg",
-    "img/.4.jpg",
-  ],
+    "src/img/charlie-and-the-chocolate-factory.0.jpg",
+    "src/img/charlie-and-the-chocolate-factory.1.jpg",
+    "src/img/charlie-and-the-chocolate-factory.2.jpg",
+    "src/img/charlie-and-the-chocolate-factory.3.jpg",
+    "src/img/charlie-and-the-chocolate-factory.4.jpg"
+  ]
 }

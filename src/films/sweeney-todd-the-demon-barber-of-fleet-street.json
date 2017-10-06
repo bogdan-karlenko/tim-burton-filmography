@@ -1,6 +1,7 @@
 {
-  "id": "",
+  "id": "sweeney-todd-the-demon-barber-of-fleet-street",
   "name": "",
+  "description": "",
   "release": "",
   "directed": "",
   "produced": [],
@@ -10,10 +11,10 @@
   "boxoffice": "",
   "paidoff": true,
   "images": [
-    "img/.0.jpg",
-    "img/.1.jpg",
-    "img/.2.jpg",
-    "img/.3.jpg",
-    "img/.4.jpg",
-  ],
+    "src/img/sweeney-todd-the-demon-barber-of-fleet-street.0.jpg",
+    "src/img/sweeney-todd-the-demon-barber-of-fleet-street.1.jpg",
+    "src/img/sweeney-todd-the-demon-barber-of-fleet-street.2.jpg",
+    "src/img/sweeney-todd-the-demon-barber-of-fleet-street.3.jpg",
+    "src/img/sweeney-todd-the-demon-barber-of-fleet-street.4.jpg"
+  ]
 }

@@ -1,13 +1,14 @@
 {
   "id": "alice-in-wonderland",
   "name": "Alice in Wonderland",
+  "description": "Nineteen-year-old Alice returns to the magical world from her childhood adventure, where she reunites with her old friends and learns of her true destiny: to end the Red Queen's reign of terror.",
   "release": "February 25, 2010",
   "directed": "Tim Burton",
   "produced": [
     "Richard D. Zanuck",
     "Joe Roth",
     "Suzanne Todd",
-    "Jennifer Todd",
+    "Jennifer Todd"
   ],
   "starring": [
     "Johnny Depp",
@@ -15,17 +16,17 @@
     "Helena Bonham Carter",
     "Crispin Glover",
     "Matt Lucas",
-    "Mia Wasikowska",
+    "Mia Wasikowska"
   ],
   "duration": "109 minutes",
   "budget": "$175 million",
   "boxoffice": "$1.025 billion",
   "paidoff": true,
-    "images": [
-    "img/alice-in-wonderland.0.jpg",
-    "img/alice-in-wonderland.1.jpg",
-    "img/alice-in-wonderland.2.jpg",
-    "img/alice-in-wonderland.3.jpg",
-    "img/alice-in-wonderland.4.jpg",
-  ],
+  "images": [
+    "src/img/alice-in-wonderland.0.jpg",
+    "src/img/alice-in-wonderland.1.jpg",
+    "src/img/alice-in-wonderland.2.jpg",
+    "src/img/alice-in-wonderland.3.jpg",
+    "src/img/alice-in-wonderland.4.jpg"
+  ]
 }

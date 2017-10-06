@@ -1,19 +1,31 @@
 {
-  "id": "",
-  "name": "",
-  "release": "",
-  "directed": "",
-  "produced": [],
-  "starring": [],
-  "duration": "",
-  "budget": "",
-  "boxoffice": "",
+  "id": "beetlejuice",
+  "name": "Beetlejuice",
+  "description": "When a recently-deceased ghost couple find their now-vacant home invaded by an obnoxious family, they hire a sleazy ghost who gets rid of humans to help them.",
+  "release": "March 30, 1988",
+  "directed": "Tim Burton",
+  "produced": [
+    "Larry Wilson",
+    "Michael Bender",
+    "Richard Hashimoto"
+  ],
+  "starring": [
+    "Alec Baldwin",
+    "Geena Davis",
+    "Jeffrey Jones",
+    "Catherine O'Hara",
+    "Winona Ryder",
+    "Michael Keaton"
+  ],
+  "duration": "92 minutes",
+  "budget": "$15 million",
+  "boxoffice": "$73.7 million",
   "paidoff": true,
   "images": [
-    "img/.0.jpg",
-    "img/.1.jpg",
-    "img/.2.jpg",
-    "img/.3.jpg",
-    "img/.4.jpg",
-  ],
+    "src/img/beetlejuice.0.jpg",
+    "src/img/beetlejuice.1.jpg",
+    "src/img/beetlejuice.2.jpg",
+    "src/img/beetlejuice.3.jpg",
+    "src/img/beetlejuice.4.jpg"
+  ]
 }

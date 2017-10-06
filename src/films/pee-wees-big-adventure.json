@@ -1,19 +1,29 @@
 {
-  "id": "",
-  "name": "",
-  "release": "",
-  "directed": "",
-  "produced": [],
-  "starring": [],
-  "duration": "",
-  "budget": "",
-  "boxoffice": "",
+  "id": "pee-wees-big-adventure",
+  "name": "Pee-wee's Big Adventure",
+  "description": "When eccentric man-child Pee-Wee Herman gets his beloved bike stolen in broad daylight, he sets out across the U.S. on the adventure of his life.",
+  "release": "August 9, 1985",
+  "directed": "Tim Burton",
+  "produced": [
+    "Robert Shapiro",
+    "Richard Gilbert Abramson"
+  ],
+  "starring": [
+    "Pee-wee Herman",
+    "Elizabeth Daily",
+    "Mark Holton",
+    "Diane Salinger",
+    "Judd Omen"
+  ],
+  "duration": "91 minutes",
+  "budget": "$7 million",
+  "boxoffice": "$40.9 million",
   "paidoff": true,
   "images": [
-    "img/.0.jpg",
-    "img/.1.jpg",
-    "img/.2.jpg",
-    "img/.3.jpg",
-    "img/.4.jpg",
-  ],
+    "src/img/pee-wees-big-adventure.0.jpg",
+    "src/img/pee-wees-big-adventure.1.jpg",
+    "src/img/pee-wees-big-adventure.2.jpg",
+    "src/img/pee-wees-big-adventure.3.jpg",
+    "src/img/pee-wees-big-adventure.4.jpg"
+  ]
 }

@@ -1,19 +1,30 @@
 {
-  "id": "",
-  "name": "",
-  "release": "",
-  "directed": "",
-  "produced": [],
-  "starring": [],
-  "duration": "",
-  "budget": "",
-  "boxoffice": "",
+  "id": "batman-returns",
+  "name": "Batman Returns",
+  "release": "June 16, 1992",
+  "directed": "Tim Burton",
+  "produced": [
+    "Denise Di Novi",
+    "Tim Burton"
+  ],
+  "starring": [
+    "Michael Keaton",
+    "Danny DeVito",
+    "Michelle Pfeiffer",
+    "Christopher Walken",
+    "Michael Gough",
+    "Pat Hingle",
+    "Michael Murphy"
+  ],
+  "duration": "126 minutes",
+  "budget": "$80 million",
+  "boxoffice": "$266.8 million",
   "paidoff": true,
   "images": [
-    "img/.0.jpg",
-    "img/.1.jpg",
-    "img/.2.jpg",
-    "img/.3.jpg",
-    "img/.4.jpg",
-  ],
+    "src/img/batman-returns.0.jpg",
+    "src/img/batman-returns.1.jpg",
+    "src/img/batman-returns.2.jpg",
+    "src/img/batman-returns.3.jpg",
+    "src/img/batman-returns.4.jpg"
+  ]
 }

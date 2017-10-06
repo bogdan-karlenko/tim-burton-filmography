@@ -21,10 +21,10 @@
   "boxoffice": "$116.4 million",
   "paidoff": true,
   "images": [
-    "img/abraham-lincoln-vampire-hunter.0.jpg",
-    "img/abraham-lincoln-vampire-hunter.1.jpg",
-    "img/abraham-lincoln-vampire-hunter.2.jpg",
-    "img/abraham-lincoln-vampire-hunter.3.jpg",
-    "img/abraham-lincoln-vampire-hunter.4.jpg",
+    "src/img/abraham-lincoln-vampire-hunter.0.jpg",
+    "src/img/abraham-lincoln-vampire-hunter.1.jpg",
+    "src/img/abraham-lincoln-vampire-hunter.2.jpg",
+    "src/img/abraham-lincoln-vampire-hunter.3.jpg",
+    "src/img/abraham-lincoln-vampire-hunter.4.jpg"
   ]
 }

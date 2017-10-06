@@ -1,19 +1,32 @@
 {
-  "id": "",
-  "name": "",
-  "release": "",
-  "directed": "",
-  "produced": [],
-  "starring": [],
-  "duration": "",
-  "budget": "",
-  "boxoffice": "",
+  "id": "batman",
+  "name": "Batman",
+  "description": "The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.",
+  "release": "June 19, 1989",
+  "directed": "Tim Burton",
+  "produced": [
+    "Jon Peters",
+    "Peter Guber"
+  ],
+  "starring": [
+    "Jack Nicholson",
+    "Michael Keaton",
+    "Kim Basinger",
+    "Robert Wuhl",
+    "Pat Hingle",
+    "Billy Dee Williams",
+    "Michael Gough",
+    "Jack Palance"
+  ],
+  "duration": "126 minutes",
+  "budget": "$35 million",
+  "boxoffice": "$411.3 million",
   "paidoff": true,
   "images": [
-    "img/.0.jpg",
-    "img/.1.jpg",
-    "img/.2.jpg",
-    "img/.3.jpg",
-    "img/.4.jpg",
-  ],
+    "src/img/batman.0.jpg",
+    "src/img/batman.1.jpg",
+    "src/img/batman.2.jpg",
+    "src/img/batman.3.jpg",
+    "src/img/batman.4.jpg"
+  ]
 }

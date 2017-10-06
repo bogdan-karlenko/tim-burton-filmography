@@ -1,19 +1,31 @@
 {
-  "id": "",
-  "name": "",
+  "id": "edward-scissorhands",
+  "name": "Edward Scissorhands",
+  "description": "A gentle man, with scissors for hands, is brought into a new community after living in isolation.",
   "release": "",
-  "directed": "",
-  "produced": [],
-  "starring": [],
-  "duration": "",
-  "budget": "",
-  "boxoffice": "",
-  "paidoff": true,
-"images": [
-    "img/.0.jpg",
-    "img/.1.jpg",
-    "img/.2.jpg",
-    "img/.3.jpg",
-    "img/.4.jpg",
+  "directed": "Tim Burton",
+  "produced": [
+    "Denise Di Novi",
+    "Tim Burton"
   ],
+  "starring": [
+    "Johnny Depp",
+    "Winona Ryder",
+    "Dianne Wiest",
+    "Anthony Michael Hall",
+    "Kathy Baker",
+    "Vincent Price",
+    "Alan Arkin"
+  ],
+  "duration": "105 minutes",
+  "budget": "$20 million",
+  "boxoffice": "$86 million",
+  "paidoff": true,
+  "images": [
+    "src/img/edward-scissorhands.0.jpg",
+    "src/img/edward-scissorhands.1.jpg",
+    "src/img/edward-scissorhands.2.jpg",
+    "src/img/edward-scissorhands.3.jpg",
+    "src/img/edward-scissorhands.4.jpg"
+  ]
 }

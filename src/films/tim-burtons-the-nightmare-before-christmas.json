@@ -1,6 +1,7 @@
 {
-  "id": "",
+  "id": "tim-burtons-the-nightmare-before-christmas",
   "name": "",
+  "description": "",
   "release": "",
   "directed": "",
   "produced": [],
@@ -10,10 +11,10 @@
   "boxoffice": "",
   "paidoff": true,
   "images": [
-    "img/.0.jpg",
-    "img/.1.jpg",
-    "img/.2.jpg",
-    "img/.3.jpg",
-    "img/.4.jpg",
-  ],
+    "src/img/tim-burtons-the-nightmare-before-christmas.0.jpg",
+    "src/img/tim-burtons-the-nightmare-before-christmas.1.jpg",
+    "src/img/tim-burtons-the-nightmare-before-christmas.2.jpg",
+    "src/img/tim-burtons-the-nightmare-before-christmas.3.jpg",
+    "src/img/tim-burtons-the-nightmare-before-christmas.4.jpg"
+  ]
 }

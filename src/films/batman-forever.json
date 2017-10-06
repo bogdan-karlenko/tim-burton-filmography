@@ -1,11 +1,12 @@
 {
   "id": "batman-forever",
   "name": "Batman Forever",
+  "description": "Batman must battle former district attorney Harvey Dent, who is now Two-Face and Edward Nygma, The Riddler with help from an amorous psychologist and a young circus acrobat who becomes his sidekick, Robin.",
   "release": "June 9, 1995",
   "directed": "Joel Schumacher",
   "produced": [
     "Tim Burton",
-    "Peter MacGregor-Scott",
+    "Peter MacGregor-Scott"
   ],
   "starring": [
     "Val Kilmer",
@@ -14,17 +15,17 @@
     "Nicole Kidman",
     "Chris O'Donnell",
     "Michael Gough",
-    "Pat Hingle",
+    "Pat Hingle"
 ],
   "duration": "122 minutes",
   "budget": "$100 million",
   "boxoffice": "$336.5 million",
   "paidoff": true,
   "images": [
-    "img/batman-forever.0.jpg",
-    "img/batman-forever.1.jpg",
-    "img/batman-forever.2.jpg",
-    "img/batman-forever.3.jpg",
-    "img/batman-forever.4.jpg",
-  ],
+    "src/img/batman-forever.0.jpg",
+    "src/img/batman-forever.1.jpg",
+    "src/img/batman-forever.2.jpg",
+    "src/img/batman-forever.3.jpg",
+    "src/img/batman-forever.4.jpg"
+  ]
 }

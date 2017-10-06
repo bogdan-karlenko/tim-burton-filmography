@@ -20,7 +20,10 @@ module.exports = function(config) {
       './src/app.js',
       './src/film-list/film-list.module.js',
       './src/film-list/film-list.component.js',
-      './src/film-list/film-list.spec.js'
+      './src/film-list/film-list.spec.js',
+      './src/film-detail/film-detail.module.js',
+      './src/film-detail/film-detail.component.js',
+      './src/film-detail/film-detail.component.spec.js'
     ],
 
 

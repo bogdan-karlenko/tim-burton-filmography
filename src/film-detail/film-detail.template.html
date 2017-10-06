@@ -1,0 +1,45 @@
+<img ng-src="{{$ctrl.film.images[0]}}" class="film" />
+
+<h1>{{$ctrl.film.name}}</h1>
+
+<p><h4>{{$ctrl.film.description}}</h4></p>
+
+<ul class="film-thumbs">
+  <li ng-repeat="img in $ctrl.film.images">
+    <img ng-src="{{img}}" />
+  </li>
+</ul>
+
+<ul class="details">
+  <li>
+    <span>Contributors</span>
+    <dl>
+      <dt>Director</dt>
+      <dd>{{$ctrl.film.directed}}</dd>
+      <dt>Producers</dt>
+      <dd ng-repeat="producer in $ctrl.film.produced">{{producer}}</dd>
+    </dl>
+  </li>
+  <li>
+    <span>&nbsp;</span>
+<dl>
+  <dt>Starring</dt>
+  <dd ng-repeat="actor in $ctrl.film.starring">{{actor}}</dd>
+</dl>
+  </li>
+  <li>
+    <span>Details</span>
+    <dt>Release</dt>
+    <dd>
+      {{$ctrl.film.release}}
+    </dd>
+        <dt>Duration</dt>
+    <dd>{{$ctrl.film.duration}}</dd>
+        <dt>Budget</dt>
+    <dd>{{$ctrl.film.budget}}</dd>
+        <dt>Boxoffice</dt>
+    <dd>{{$ctrl.film.boxoffice}}</dd>
+        <dt>Commercial success</dt>
+    <dd>{{$ctrl.film.paidoff}}</dd>
+  </li>
+</ul>

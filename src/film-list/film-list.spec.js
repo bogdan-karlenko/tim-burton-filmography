@@ -30,7 +30,7 @@ describe('filmList', function() {
     });
 
     it('should set a default value for the `orderProp` property', function() {
-      expect(ctrl.orderProp).toBe('age');
+      expect(ctrl.orderProp).toBe('year');
     });
   });
 

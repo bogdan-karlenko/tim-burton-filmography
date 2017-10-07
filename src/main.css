@@ -1,81 +1,100 @@
 body {
-  padding: 20px;
+    padding: 20px;
+    font-family: Calibri;
 }
 
 h1 {
-  border-bottom: 1px solid gray;
+    border-bottom: 1px solid gray;
 }
 
 /* View: Phone list */
+
 .films {
-  list-style: none;
+    list-style: none;
 }
 
 .films li {
-/*  clear: both;*/
-/*  height: 115px;*/
-  padding-top: 15px;
+    /*  clear: both;*/
+    /*  height: 115px;*/
+    padding-top: 15px;
+}
+
+.films h2 {
+  font-size: 2.6em;
+}
+
+.films h3 {
+  font-size: 2.3em;
 }
 
 .thumb {
-  float: left;
-  height: auto;
-  margin: 0 1em 0 1em;
-  padding-bottom: 1em;
-  width: 100px;
+    float: left;
+    height: auto;
+    margin: 0 1em 0 1em;
+    padding-bottom: 1em;
+    width: 100px;
 }
 
+
 /* View: Film detail */
+
 .film {
-  background-color: white;
-  border: 1px solid black;
-  float: left;
-  height: auto;
-  margin-bottom: 2em;
-  margin-right: 3em;
-  padding: 2em;
-  width: 400px;
+    background-color: white;
+    border: 1px solid black;
+    float: left;
+    height: auto;
+    margin-bottom: 2em;
+    margin-right: 3em;
+    padding: 2em;
+    width: 400px;
 }
 
 .film-thumbs {
-  list-style: none;
-  margin: 0;
+    list-style: none;
+    margin: 0;
 }
 
 .film-thumbs img {
-  height: auto;
-  padding: 1em;
-  width: 100px;
+    height: auto;
+    padding: 1em;
+    width: 100px;
 }
 
 .film-thumbs li {
-  background-color: white;
-  border: 1px solid black;
-  display: inline-block;
-  margin: 1em;
+    background-color: white;
+    border: 1px solid black;
+    display: inline-block;
+    margin: 1em;
 }
 
 .details {
-  float: left;
-/*  clear: both;*/
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  padding-top: 50px;
-  padding-left: 50px;
+    float: left;
+    /*  clear: both;*/
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    padding-top: 50px;
+    padding-left: 50px;
 }
 
 .details dt {
-  font-weight: bold;
+    font-weight: bold;
+    font-size: 1.6em;
 }
 
-.details > li {
-  display: inline-block;
-  vertical-align: top;
-  width: 200px;
+.details dd {
+    font-size: 1.4em;
+    margin: 0;
 }
 
-.details > li > span {
-  font-size: 1.2em;
-  font-weight: bold;
+.details>li {
+    display: inline-block;
+    vertical-align: top;
+    width: 200px;
+}
+
+.details>li>span {
+    font-size: 1.2em;
+    font-weight: bold;
+    border-bottom: 1px solid grey;
 }

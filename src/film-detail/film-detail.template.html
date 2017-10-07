@@ -37,9 +37,8 @@
     <dd>{{$ctrl.film.duration}}</dd>
         <dt>Budget</dt>
     <dd>{{$ctrl.film.budget}}</dd>
-        <dt>Boxoffice</dt>
+        <dt>Box Office</dt>
     <dd>{{$ctrl.film.boxoffice}}</dd>
-        <dt>Commercial success</dt>
-    <dd>{{$ctrl.film.paidoff}}</dd>
+        <dt>Commercial success: {{$ctrl.film.paidoff | checkmark}}</dt>
   </li>
 </ul>

@@ -1,13 +1,27 @@
 {
   "id": "charlie-and-the-chocolate-factory",
-  "name": "",
-  "release": "",
-  "directed": "",
-  "produced": [],
-  "starring": [],
-  "duration": "",
-  "budget": "",
-  "boxoffice": "",
+  "name": "Charlie and the Chocolate Factory",
+  "description": "A young boy wins a tour through the most magnificent chocolate factory in the world, led by the world's most unusual candy maker.",
+  "release": "July 10, 2005",
+  "directed": "Tim Burton",
+  "produced": [
+    "Brad Grey",
+    "Richard D. Zanuck"
+  ],
+  "starring": [
+    "Johnny Depp",
+    "Freddie Highmore",
+    "David Kelly",
+    "Helena Bonham Carter",
+    "Noah Taylor",
+    "Missi Pyle",
+    "James Fox",
+    "Deep Roy",
+    "Christopher Lee"
+  ],
+  "duration": "115 minutes",
+  "budget": "$150 million",
+  "boxoffice": "$475 million",
   "paidoff": true,
   "images": [
     "src/img/charlie-and-the-chocolate-factory.0.jpg",

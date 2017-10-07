@@ -1,14 +1,29 @@
 {
   "id": "big-fish",
-  "name": "",
-  "description": "",
-  "release": "",
-  "directed": "",
-  "produced": [],
-  "starring": [],
-  "duration": "",
-  "budget": "",
-  "boxoffice": "",
+  "name": "Big Fish",
+  "description": "A frustrated son tries to determine the fact from fiction in his dying father's life.",
+  "release": "December 4, 2003",
+  "directed": "Tim Burton",
+  "produced": [
+    "Richard D. Zanuck",
+    "Bruce Cohen",
+    "Dan Jinks"
+  ],
+  "starring": [
+    "Ewan McGregor",
+    "Albert Finney",
+    "Billy Crudup",
+    "Jessica Lange",
+    "Helena Bonham Carter",
+    "Alison Lohman",
+    "Robert Guillaume",
+    "Marion Cotillard",
+    "Steve Buscemi",
+    "Danny DeVito"
+  ],
+  "duration": "December 4, 2003",
+  "budget": "$70 million",
+  "boxoffice": "$122.9 million",
   "paidoff": true,
   "images": [
     "src/img/big-fish.0.jpg",

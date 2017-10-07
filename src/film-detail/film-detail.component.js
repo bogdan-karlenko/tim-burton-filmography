@@ -10,3 +10,15 @@ component('filmDetail', {
     });
   }]
 });
+
+angular.
+module('filmDetail').
+filter('checkmark', function() {
+  return function(input) {
+    if (input === true) {
+      return '\u2713';
+    } else {
+      return '\u2718';
+    }
+  }
+});

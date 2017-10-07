@@ -1,14 +1,27 @@
 {
   "id": "big-eyes",
-  "name": "",
-  "description": "",
-  "release": "",
-  "directed": "",
-  "produced": [],
-  "starring": [],
-  "duration": "",
-  "budget": "",
-  "boxoffice": "",
+  "name": "Big Eyes",
+  "description": "A drama about the awakening of painter Margaret Keane, her phenomenal success in the 1950s, and the subsequent legal difficulties she had with her husband, who claimed credit for her works in the 1960s.",
+  "release": "December 15, 2014",
+  "directed": "Tim Burton",
+  "produced": [
+    "Tim Burton",
+    "Scott Alexander",
+    "Larry Karaszewski",
+    "Lynette Howell"
+  ],
+  "starring": [
+    "Amy Adams",
+    "Christoph Waltz",
+    "Danny Huston",
+    "Jon Polito",
+    "Krysten Ritter",
+    "Jason Schwartzman",
+    "Terence Stamp"
+  ],
+  "duration": "106 minutes",
+  "budget": "$10 million",
+  "boxoffice": "$29.3 million",
   "paidoff": true,
   "images": [
     "src/img/big-eyes.0.jpg",

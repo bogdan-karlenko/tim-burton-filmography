@@ -17,7 +17,9 @@ module.exports = function(config) {
     files: [
       './node_modules/angular/angular.js',
       './node_modules/angular-mocks/angular-mocks.js',
-      './src/app.js',
+      './node_modules/angular-route/angular-route.js',
+      './src/app.module.js',
+      './src/app.config.js',
       './src/film-list/film-list.module.js',
       './src/film-list/film-list.component.js',
       './src/film-list/film-list.spec.js',

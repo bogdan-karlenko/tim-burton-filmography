@@ -1,16 +1,29 @@
 {
   "id": "miss-peregrines-home-for-peculiar-children",
-  "name": "",
-  "description": "",
-  "release": "",
-  "directed": "",
-  "produced": [],
-  "starring": [],
-  "duration": "",
-  "budget": "",
-  "boxoffice": "",
+  "name": "Miss Peregrine's Home for Peculiar Children",
+  "description": "When Jacob discovers clues to a mystery that stretches across time, he finds Miss Peregrine's Home for Peculiar Children. But the danger deepens after he gets to know the residents and learns about their special powers.",
+  "release": "September 25, 2016",
+  "directed": "Tim Burton",
+  "produced": [
+    "Peter Chernin",
+    "Jenno Topping"
+  ],
+  "starring": [
+    "Eva Green",
+    "Asa Butterfield",
+    "Chris O'Dowd",
+    "Allison Janney",
+    "Rupert Everett",
+    "Terence Stamp",
+    "Ella Purnell",
+    "Judi Dench",
+    "Samuel L. Jackson"
+  ],
+  "duration": "127 minutes",
+  "budget": "$110 million",
+  "boxoffice": "$296.5 million",
   "paidoff": true,
-"images": [
+  "images": [
     "src/img/miss-peregrines-home-for-peculiar-children.0.jpg",
     "src/img/miss-peregrines-home-for-peculiar-children.1.jpg",
     "src/img/miss-peregrines-home-for-peculiar-children.2.jpg",

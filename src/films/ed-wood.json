@@ -1,16 +1,26 @@
 {
   "id": "ed-wood",
-  "name": "",
-  "description": "",
-  "release": "",
-  "directed": "",
-  "produced": [],
-  "starring": [],
-  "duration": "",
-  "budget": "",
-  "boxoffice": "",
-  "paidoff": true,
-"images": [
+  "name": "Ed Wood",
+  "description": "Ambitious but troubled movie director, Edward D. Wood Jr, tries his best to fulfill his dream, despite his lack of support.",
+  "release": "September 23, 1994",
+  "directed": "Tim Burton",
+  "produced": [
+    "Denise Di Novi",
+    "Tim Burton"
+  ],
+  "starring": [
+    "Johnny Depp",
+    "Martin Landau",
+    "Sarah Jessica Parker",
+    "Patricia Arquette",
+    "Jeffrey Jones",
+    "Bill Murray"
+  ],
+  "duration": "127 minutes",
+  "budget": "$18 million",
+  "boxoffice": "$5.9 million",
+  "paidoff": false,
+  "images": [
     "src/img/ed-wood.0.jpg",
     "src/img/ed-wood.1.jpg",
     "src/img/ed-wood.2.jpg",

@@ -1,16 +1,32 @@
 {
   "id": "dark-shadows",
-  "name": "",
-  "description": "",
-  "release": "",
-  "directed": "",
-  "produced": [],
-  "starring": [],
-  "duration": "",
-  "budget": "",
-  "boxoffice": "",
+  "name": "Dark Shadows",
+  "description": "An imprisoned vampire, Barnabas Collins, is set free and returns to his ancestral home, where his dysfunctional descendants are in need of his protection.",
+  "release": "May 11, 2012",
+  "directed": "Tim Burton",
+  "produced": [
+    "Richard D. Zanuck",
+    "Graham King",
+    "Johnny Depp",
+    "Christi Dembrowski",
+    "David Kennedy"
+  ],
+  "starring": [
+    "Johnny Depp",
+    "Michelle Pfeiffer",
+    "Helena Bonham Carter",
+    "Eva Green",
+    "Jackie Earle Haley",
+    "Jonny Lee Miller",
+    "Chloë Grace Moretz",
+    "Bella Heathcote",
+    "Alice Cooper"
+  ],
+  "duration": "113 minutes",
+  "budget": "$150 million",
+  "boxoffice": "$245.5 million",
   "paidoff": true,
-"images": [
+  "images": [
     "src/img/dark-shadows.0.jpg",
     "src/img/dark-shadows.1.jpg",
     "src/img/dark-shadows.2.jpg",

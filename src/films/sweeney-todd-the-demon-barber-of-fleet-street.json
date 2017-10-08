@@ -1,14 +1,25 @@
 {
   "id": "sweeney-todd-the-demon-barber-of-fleet-street",
-  "name": "",
-  "description": "",
+  "name": "Sweeney Todd: The Demon Barber of Fleet Street",
+  "description": "The infamous story of Benjamin Barker, a.k.a. Sweeney Todd, who sets up a barber shop down in London which is the basis for a sinister partnership with his fellow tenant, Mrs. Lovett. Based on the hit Broadway musical.",
   "release": "",
-  "directed": "",
-  "produced": [],
-  "starring": [],
-  "duration": "",
-  "budget": "",
-  "boxoffice": "",
+  "directed": "Tim Burton",
+  "produced": [
+    "Richard D. Zanuck",
+    "Walter Parkes",
+    "Laurie MacDonald",
+    "John Logan"
+  ],
+  "starring": [
+    "Johnny Depp",
+    "Helena Bonham Carter",
+    "Alan Rickman",
+    "Timothy Spall",
+    "Sacha Baron Cohen"
+  ],
+  "duration": "116 minutes",
+  "budget": "$50 million",
+  "boxoffice": "$152.5 million",
   "paidoff": true,
   "images": [
     "src/img/sweeney-todd-the-demon-barber-of-fleet-street.0.jpg",

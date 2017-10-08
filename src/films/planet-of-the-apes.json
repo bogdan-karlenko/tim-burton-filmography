@@ -1,14 +1,23 @@
 {
   "id": "planet-of-the-apes",
   "name": "Planet of the Apes",
-  "description": "",
-  "release": "",
-  "directed": "",
-  "produced": [],
-  "starring": [],
-  "duration": "",
-  "budget": "",
-  "boxoffice": "",
+  "description": "An Air Force astronaut crash lands on a mysterious planet where evolved, talking apes dominate a race of primitive humans.",
+  "release": "July 27, 2001",
+  "directed": "Tim Burton",
+  "produced": [
+    "Richard D. Zanuck"
+  ],
+  "starring": [
+    "Mark Wahlberg",
+    "Tim Roth",
+    "Helena Bonham Carter",
+    "Michael Clarke Duncan",
+    "Paul Giamatti",
+    "Estella Warren"
+  ],
+  "duration": "120 minutes",
+  "budget": "$100 million",
+  "boxoffice": "$362.2 million",
   "paidoff": true,
   "images": [
     "src/img/planet-of-the-apes.0.jpg",

@@ -1,14 +1,23 @@
 {
   "id": "tim-burtons-corpse-bride",
-  "name": "",
-  "description": "",
+  "name": "Corpse Bride",
+  "description": "When a shy groom practices his wedding vows in the inadvertent presence of a deceased young woman, she rises from the grave assuming he has married her.",
   "release": "",
-  "directed": "",
-  "produced": [],
-  "starring": [],
-  "duration": "",
-  "budget": "",
-  "boxoffice": "",
+  "directed": [
+    "Mike Johnson",
+    "Tim Burton"
+  ],
+  "produced": [
+    "Tim Burton",
+    "Allison Abbate"
+  ],
+  "starring": [
+    "Johnny Depp",
+    "Helena Bonham Carter"
+  ],
+  "duration": "77 minutes",
+  "budget": "$40 million",
+  "boxoffice": "$117.2 million",
   "paidoff": true,
   "images": [
     "src/img/tim-burtons-corpse-bride.0.jpg",

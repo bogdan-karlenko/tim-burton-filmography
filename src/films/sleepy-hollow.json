@@ -1,14 +1,24 @@
 {
   "id": "sleepy-hollow",
   "name": "Sleepy Hollow",
-  "description": "",
-  "release": "",
-  "directed": "",
-  "produced": [],
-  "starring": [],
-  "duration": "",
-  "budget": "",
-  "boxoffice": "",
+  "description": "Ichabod Crane is sent to Sleepy Hollow to investigate the decapitations of 3 people with the culprit being the legendary apparition, the Headless Horseman.",
+  "release": "November 17, 1999",
+  "directed": "Tim Burton",
+  "produced": [
+    "Scott Rudin",
+    "Adam Schroeder"
+  ],
+  "starring": [
+    "Johnny Depp",
+    "Christina Ricci",
+    "Miranda Richardson",
+    "Michael Gambon",
+    "Casper Van Dien",
+    "Jeffrey Jones"
+  ],
+  "duration": "105 minute",
+  "budget": "$100 million",
+  "boxoffice": "$206.1 million",
   "paidoff": true,
   "images": [
     "src/img/sleepy-hollow.0.jpg",

@@ -15,7 +15,7 @@
     <span>Contributors</span>
     <dl>
       <dt>Director</dt>
-      <dd>{{$ctrl.film.directed}}</dd>
+      <dd ng-repeat="director in $ctrl.film.directed">{{director}}</dd>
       <dt>Producers</dt>
       <dd ng-repeat="producer in $ctrl.film.produced">{{producer}}</dd>
     </dl>

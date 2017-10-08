@@ -1,14 +1,26 @@
 {
   "id": "tim-burtons-the-nightmare-before-christmas",
-  "name": "",
-  "description": "",
-  "release": "",
-  "directed": "",
-  "produced": [],
-  "starring": [],
-  "duration": "",
-  "budget": "",
-  "boxoffice": "",
+  "name": "The Nightmare Before Christmas",
+  "description": "Jack Skellington, king of Halloween Town, discovers Christmas Town, but his attempts to bring Christmas to his home cause confusion.",
+  "release": "October 29, 1993",
+  "directed": "Henry Selick",
+  "produced": [
+    "Tim Burton",
+    "Denise Di Novi"
+  ],
+  "starring": [
+    "Danny Elfman",
+    "Chris Sarandon",
+    "Catherine O'Hara",
+    "William Hickey",
+    "Glenn Shadix",
+    "Paul Reubens",
+    "Ken Page",
+    "Ed Ivory"
+  ],
+  "duration": "76 minutes",
+  "budget": "$18 million",
+  "boxoffice": "$76.2 million",
   "paidoff": true,
   "images": [
     "src/img/tim-burtons-the-nightmare-before-christmas.0.jpg",

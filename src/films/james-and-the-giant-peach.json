@@ -1,16 +1,29 @@
 {
   "id": "james-and-the-giant-peach",
-  "name": "",
-  "description": "",
-  "release": "",
-  "directed": "",
-  "produced": [],
-  "starring": [],
-  "duration": "",
-  "budget": "",
-  "boxoffice": "",
-  "paidoff": true,
-"images": [
+  "name": "James and the Giant Peach",
+  "description": "An orphan, who lives with his two cruel aunts, befriends anthropomorphic bugs who live inside a giant peach, and they embark on a journey to New York City.",
+  "release": "April 12, 1996",
+  "directed": "Henry Selick",
+  "produced": [
+    "Denise Di Novi",
+    "Tim Burton"
+  ],
+  "starring": [
+    "Paul Terry",
+    "Simon Callow",
+    "Richard Dreyfuss",
+    "Jane Leeves",
+    "Joanna Lumley",
+    "Miriam Margolyes",
+    "Susan Sarandon",
+    "Pete Postlethwaite",
+    "David Thewlis"
+  ],
+  "duration": "79 minutes",
+  "budget": "$38 million",
+  "boxoffice": "$28.9 million",
+  "paidoff": false,
+  "images": [
     "src/img/james-and-the-giant-peach.0.jpg",
     "src/img/james-and-the-giant-peach.1.jpg",
     "src/img/james-and-the-giant-peach.2.jpg",

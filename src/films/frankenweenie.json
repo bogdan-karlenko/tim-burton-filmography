@@ -1,16 +1,26 @@
 {
   "id": "frankenweenie",
-  "name": "",
-  "description": "",
-  "release": "",
-  "directed": "",
-  "produced": [],
-  "starring": [],
-  "duration": "",
-  "budget": "",
-  "boxoffice": "",
+  "name": "Frankenweenie",
+  "description": "Young Victor conducts a science experiment to bring his beloved dog Sparky back to life, only to face unintended, sometimes monstrous, consequences.",
+  "release": "September 20, 2012",
+  "directed": "Tim Burton",
+  "produced": [
+    "Tim Burton",
+    "Allison Abbate"
+  ],
+  "starring": [
+    "Catherine O'Hara",
+    "Martin Short",
+    "Martin Landau",
+    "Charlie Tahan",
+    "Atticus Shaffer",
+    "Winona Ryder"
+  ],
+  "duration": "87 minutes",
+  "budget": "$39 million",
+  "boxoffice": "$81.5 million",
   "paidoff": true,
-"images": [
+  "images": [
     "src/img/frankenweenie.0.jpg",
     "src/img/frankenweenie.1.jpg",
     "src/img/frankenweenie.2.jpg",

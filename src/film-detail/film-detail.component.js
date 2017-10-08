@@ -6,7 +6,13 @@ component('filmDetail', {
     var self = this;
 
     $http.get('src/films/' + $routeParams.filmId + '.json').then(function(response) {
-      self.film = response.data;
+      var filmDetails = response.data;
+
+      if (typeof filmDetails.directed === 'string') {
+        filmDetails.directed = [filmDetails.directed];
+      }
+
+      self.film = filmDetails;
     });
   }]
 });

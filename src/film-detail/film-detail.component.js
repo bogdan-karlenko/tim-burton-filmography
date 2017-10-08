@@ -5,6 +5,10 @@ component('filmDetail', {
   controller: ['$http', '$routeParams', function FilmDetailController($http, $routeParams) {
     var self = this;
 
+    self.setImage = function setImage(imageUrl) {
+      self.mainImageUrl = imageUrl;
+    };
+
     $http.get('src/films/' + $routeParams.filmId + '.json').then(function(response) {
       var filmDetails = response.data;
 
@@ -13,6 +17,7 @@ component('filmDetail', {
       }
 
       self.film = filmDetails;
+      self.setImage(self.film.images[0]);
     });
   }]
 });

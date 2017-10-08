@@ -1,4 +1,6 @@
-<img ng-src="{{$ctrl.film.images[0]}}" class="film" />
+<div class="mainImage">
+  <img ng-src="{{$ctrl.mainImageUrl}}" class="film" />
+</div>
 
 <h1>{{$ctrl.film.name}}</h1>
 
@@ -6,7 +8,7 @@
 
 <ul class="film-thumbs">
   <li ng-repeat="img in $ctrl.film.images">
-    <img ng-src="{{img}}" />
+    <img ng-src="{{img}}" ng-click="$ctrl.setImage(img)" />
   </li>
 </ul>
 

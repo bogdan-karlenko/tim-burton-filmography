@@ -137,17 +137,19 @@
     "imageUrl": "big-eyes.0.jpg",
     "name": "Big Eyes",
     "year": "2014"
-  }, {
-    "age": 23,
-    "id": "alice-through-the-looking-glass",
-    "imageUrl": "alice-through-the-looking-glass.0.jpg",
-    "name": "Alice Through the Looking Glass",
-    "year": "2016"
-  }, {
+  },
+   {
     "age": 24,
     "id": "miss-peregrines-home-for-peculiar-children",
     "imageUrl": "miss-peregrines-home-for-peculiar-children.0.jpg",
     "name": "Miss Peregrine's Home for Peculiar Children",
+    "year": "2016"
+  },
+   {
+    "age": 23,
+    "id": "alice-through-the-looking-glass",
+    "imageUrl": "alice-through-the-looking-glass.0.jpg",
+    "name": "Alice Through the Looking Glass",
     "year": "2016"
   }
 ]

@@ -4,7 +4,7 @@ Tim Burton's filmography as a tutorial excersice
   This is a list of Tim Burton works.
 
   Run:
-  https://bogdan-karlenko.github.io/tim-burton-filmography/index.html
+  http://35.177.44.184:8081
 
   Based on:
   https://docs.angularjs.org/tutorial/
